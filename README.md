@@ -18,7 +18,7 @@
 const rahul = {
   name        : "Rahul K",
   location    : "Kerala, India 🌴",
-  email       : "rahulvidx0696@gmail.com",
+  email       : "RahulK23960696@gmail.com",
 
   stack       : ["React.js", "Next.js", "Node.js",
                  "Python", "Django", "PostgreSQL",
@@ -81,11 +81,11 @@ const rahul = {
 
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=rahulvidx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulvidx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github-readme-stats.vercel.app/api?username=RahulK2396&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulK2396&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvidx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvidx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulK2396&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulK2396&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -96,7 +96,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rahulvidx&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=RahulK2396&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -106,17 +106,20 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulvidx&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulK2396&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulvidx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+![Followers](https://img.shields.io/github/followers/RahulK2396?style=flat-square&color=70a5fd&labelColor=0d1117&label=Followers&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/RahulK2396?style=flat-square&color=bf91f3&labelColor=0d1117&label=Total%20Stars&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulK2396&style=flat-square&color=38bdae&label=Profile+Views)
+![Repos](https://img.shields.io/badge/Open%20Source-Contributor-38bdae?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -211,10 +214,8 @@ const rahul = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rahulvidx0696%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulvidx0696@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rahulvidx-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rahulvidx)
+[![GitHub](https://img.shields.io/badge/GitHub-RahulK2396-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulK2396)
 [![Phone](https://img.shields.io/badge/Phone-%2B91_8848652896-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918848652896)
-
-<img src="https://komarev.com/ghpvc/?username=rahulvidx&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
