@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Rahul+K+%F0%9F%91%8B;Full+Stack+Developer+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3;React+%7C+Next.js+%7C+Node.js+%7C+Django;Building+AI-powered+tools+%26+web+apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+from+Kerala+%F0%9F%87%AE%F0%9F%87%B3;React+%7C+Next.js+%7C+Node.js+%7C+Django;Building+AI-powered+tools+%26+web+apps" alt="Typing SVG" /></a>
 
 </div>
 
@@ -18,7 +18,7 @@
 const rahul = {
   name        : "Rahul K",
   location    : "Kerala, India 🌴",
-  email       : "RahulK23960696@gmail.com",
+  email       : "Rahulvidx0696@gmail.com",
 
   stack       : ["React.js", "Next.js", "Node.js",
                  "Python", "Django", "PostgreSQL",
@@ -191,7 +191,8 @@ const rahul = {
 
 | Degree | Institution | Year |
 |:-------|:------------|:-----|
-| 🎓 B.Tech / MCA (Computer Science) | Kerala, India | 2023 |
+| 🎓 BCA (Computer Science) | Kerala, India | 2023 |
+🎓 Automobile Engineering | Kerala, India | 2017 |
 
 </div>
 
@@ -215,7 +216,6 @@ const rahul = {
 
 [![Email](https://img.shields.io/badge/Email-rahulvidx0696%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulvidx0696@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RahulK2396-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RahulK2396)
-[![Phone](https://img.shields.io/badge/Phone-%2B91_8848652896-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918848652896)
 
 </div>
 
